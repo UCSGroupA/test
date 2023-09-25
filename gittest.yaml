@@ -1,0 +1,16 @@
+     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    > Cloning into `Spoon-Knife`...
+    > remote: Counting objects: 10, done.
+    > remote: Compressing objects: 100% (8/8), done.
+    > remove: Total 10 (delta 1), reused 10 (delta 1)
+    > Unpacking objects: 100% (10/10), done.
+
+Cloning an empty repository
+
+An empty repository contains no files. It's often made if you don't initialize the repository with a README when creating it.
+
+    On GitHub.com, navigate to the main page of the repository.
+
+    To clone your repository using the command line using HTTPS, under "Quick setup", click 
+
+. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click.
